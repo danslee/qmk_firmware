@@ -14,9 +14,6 @@
 
 // --- Brightness limits ---
 #define RGB_MATRIX_MAXIMUM_BRIGHTNESS 180
-
-// --- Enable only effects we use ---
-#define ENABLE_RGB_MATRIX_SOLID_COLOR
 #define ENABLE_RGB_MATRIX_SOLID_REACTIVE_SIMPLE
 
 // --- Disable all other effects ---
